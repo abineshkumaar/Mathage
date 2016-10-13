@@ -1,2 +1,3 @@
 def add (n1,n2):
-    print ()
+    print (n1+n2)
+    
